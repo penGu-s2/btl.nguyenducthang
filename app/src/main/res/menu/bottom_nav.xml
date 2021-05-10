@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_song"
+        android:title="Bài hát"
+        android:icon="@drawable/hom1"/>
+    <item android:id="@+id/nav_artist"
+        android:title="Nghệ sĩ"
+        android:icon="@drawable/hom1"/>
+    <item android:id="@+id/nav_album"
+        android:title="Album"
+        android:icon="@drawable/hom1"/>
+</menu>
